@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sample-nextjs-app-with-capacitor-for-deployment</string>
+    <string name="title_activity_main">sample-nextjs-app-with-capacitor-for-deployment</string>
+    <string name="package_name">com.nextjs_with_capacitor.sample</string>
+    <string name="custom_url_scheme">com.nextjs_with_capacitor.sample</string>
+</resources>
